@@ -4,10 +4,10 @@ Hi! I'm Daniel, a Colombian **development economist** with **4+ years of experie
 
 I specialize in:
 - 📊 **Data cleaning and analysis** of administrative and survey data
-- 📈 **Applied research and econometrics**, from descriptive statistics and regression models to causal inference
-- 📚 **Literature reviews and evidence synthesis**
+- 🧮 **Applied research and econometrics**, from descriptive statistics and regression models to causal inference
+- 👓 **Literature reviews and evidence synthesis**
 - 🤖 **AI in research**: large language models and NLP for text-heavy data, and AI coding agents in my daily workflow
-- 🧮 **Reproducible research**
+- ⛹️‍♂️ **Reproducible research**
 
 I'm proficient in **Stata, R, Python, and SQL**, and I've applied these tools to research and policy work in **human development** and **social protection**, with a focus on health, early childhood and youth, and violence prevention, both in Colombia and in multi-country studies.
 

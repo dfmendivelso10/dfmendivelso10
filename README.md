@@ -9,7 +9,7 @@ I specialize in:
 - 🤖 **AI in research**: large language models and NLP for text-heavy data, and AI coding agents in my daily workflow
 - 🧮 **Reproducible research**
 
-I work in **Stata, R, Python, and SQL**, and I've applied these skills to **health**, **childhood and adolescence**, and **violence prevention** in Colombia.
+I'm proficient in **Stata, R, Python, and SQL**, and I've applied these tools to research and policy work on **health**, **childhood and adolescence**, and **violence prevention**, both in Colombia and in multi-country studies.
 
 ---
 

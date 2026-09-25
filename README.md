@@ -6,7 +6,7 @@ What I do most:
 - 📊 **Cleaning and analyzing large datasets**, from raw administrative records to survey microdata
 - 📈 **Impact evaluation**: RCTs, difference-in-differences, SEM and mediation models
 - 🤖 **Large language models and NLP** to classify and summarize large volumes of documents
-- 🧮 **Reproducible code**: everything under Git, with the decisions written down
+- 🧮 **Git and GitHub** in team projects: branching, code review, and documentation
 
 I work in **Stata, R, Python, and SQL**, and most of my work ends up with government teams and civil society organizations in Colombia.
 

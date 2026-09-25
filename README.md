@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-Hi! I'm Daniel, a Colombian **development economist** with **4+ years of experience** working at the intersection of **data and public policy**.
+Hi! I'm Daniel, a Colombian **development economist** with **4+ years of experience** working at the intersection of **data and public policy**. I'm currently a **Research Assistant at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/)**, Universidad de los Andes.
 
 I specialize in:
 - 📊 **Data cleaning and analysis** of administrative and survey data
 - 📈 **Applied research and econometrics**, from descriptive statistics and regression models to causal inference
-- 🤖 **Large language models and NLP** for text-heavy data
+- 📚 **Literature reviews and evidence synthesis**
+- 🤖 **AI in research**: large language models and NLP for text-heavy data, and AI coding agents in my daily workflow
 - 🧮 **Reproducible research**
 
 I work in **Stata, R, Python, and SQL**, and I've applied these skills to **health**, **childhood and adolescence**, and **violence prevention** in Colombia.

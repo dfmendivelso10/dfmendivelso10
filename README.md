@@ -1,24 +1,20 @@
 ## Hi there 👋
 
-I'm Daniel, an applied economist from Colombia. I work as a Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes, and for the past four years I've worked with **administrative and survey data** on childhood, violence prevention, and public health.
+Hi! I'm Daniel, a Colombian **development economist** with **4+ years of experience** working at the intersection of **data and public policy**.
 
-What I do most:
-- 📊 **Cleaning and analyzing large datasets**, from raw administrative records to survey microdata
-- 📈 **Impact evaluation**: RCTs, difference-in-differences, SEM and mediation models
-- 🤖 **Large language models and NLP** to classify and summarize large volumes of documents
-- 🧮 **Git and GitHub** in team projects: branching, code review, and documentation
+I specialize in:
+- 📊 **Data cleaning and analysis** of administrative and survey data
+- 📈 **Applied research and econometrics**, from descriptive statistics and regression models to causal inference
+- 🤖 **Large language models and NLP** for text-heavy data
+- 🧮 **Reproducible research**
 
-I work in **Stata, R, Python, and SQL**, and most of my work ends up with government teams and civil society organizations in Colombia.
+I work in **Stata, R, Python, and SQL**, and I've applied these skills to **health**, **childhood and adolescence**, and **violence prevention** in Colombia.
 
 ---
 
-## 💡 What Drives Me
+## 💡 Beyond the Code
 
-I like work where the data actually gets used. In practice that means:
-
-- ✅ **Reproducible**: someone else on the team can rerun the code
-- 🔍 **Transparent**: every analytical decision is written down
-- 🏛️ **Useful**: results get to the people making the policy call
+I've been a **Teaching Assistant** in Economic Analysis of Public Policy (M.A. level) for four semesters, and I've run **technical workshops** with government teams and civil society organizations. I document my pipelines and codebooks so other teams can pick them up and reuse them, because well-documented work is how evidence actually reaches policy decisions.
 
 ---
 

@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm Daniel, a Colombian applied economist and Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes. I have **4+ years of experience** in impact evaluation, econometrics, and data analytics, supporting **evidence-to-policy** work with government counterparts.
+I'm Daniel, an applied economist from Colombia. I work as a Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes, and for the past four years I've worked with **administrative and survey data** on childhood, violence prevention, and public health.
 
-I work on:
-- 📊 **Data cleaning, management, and analysis** of large administrative and survey datasets
-- 📈 **Impact evaluation and causal inference**: RCTs, difference-in-differences, SEM and mediation analysis
-- 🤖 **Machine learning, NLP, and large language models** applied inside automated analysis pipelines
-- 🧮 **Reproducible research**: well-documented code under Git version control
+What I do most:
+- 📊 **Cleaning and analyzing large datasets**, from raw administrative records to survey microdata
+- 📈 **Impact evaluation**: RCTs, difference-in-differences, SEM and mediation models
+- 🤖 **Large language models and NLP** to classify and summarize large volumes of documents
+- 🧮 **Reproducible code**: everything under Git, with the decisions written down
 
-My tools are **Stata, R, Python, and SQL**. My work centers on **childhood and adolescence**, **violence prevention**, **public health**, and **social policy** in Colombia and Latin America.
+I work in **Stata, R, Python, and SQL**, and most of my work ends up with government teams and civil society organizations in Colombia.
 
 ---
 

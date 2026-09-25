@@ -14,11 +14,11 @@ My tools are **Stata, R, Python, and SQL**. My work centers on **childhood and a
 
 ## 💡 What Drives Me
 
-I want data work to change decisions, not just describe them. That means:
+I like work where the data actually gets used. In practice that means:
 
-- ✅ **Reproducible**: anyone on the team can rerun the pipeline
-- 🔍 **Transparent**: analytical decisions are documented, not buried
-- 🏛️ **Useful to policy**: results reach the people who allocate resources
+- ✅ **Reproducible**: someone else on the team can rerun the code
+- 🔍 **Transparent**: every analytical decision is written down
+- 🏛️ **Useful**: results get to the people making the policy call
 
 ---
 

@@ -1,4 +1,4 @@
-## Hi there 👋 🦕
+## Hi there  ☄️ 🦠 🦕 🐒 ⛹️‍♂️ 👋
 
 Hi! I'm Daniel, a Colombian **development economist** with **4+ years of experience** working at the intersection of **data and public policy**. I'm currently a **Research Assistant at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/)**, Universidad de los Andes.
 

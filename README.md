@@ -1,23 +1,24 @@
-### Hi there ☄️ 🦠 🦕 🐒 ⛹️‍♂️ 👋
+Hi there ☄️ 🦠 🦕 🐒 ⛹️‍♂️ 👋
 
-Hi! I'm Daniel, a Colombian **development economist** with **5 years of experience** working at the intersection of **data and public policy**. I'm currently a **Research Professional at the [IMAGINA Research Center](LINK_IMAGINA)**, Universidad de los Andes.
+Hello! My name is Daniel and I am a development economist from Colombia who has experience spanning five years in applied research, data analysis, and public policy. I’m currently a Research Professional at the IMAGINA Research Center, which is part of the Universidad de los Andes. The focus of my work is on human development and social protection, and it involves linking together academic research with government projects as well as collaborations with civil society organizations.
 
 I specialize in:
 
-- 📊 **Data cleaning and analysis** of administrative and survey data
-- 🧮 **Applied research and econometrics**, from descriptive statistics and regression models to causal inference
-- 👓 **Literature reviews and evidence synthesis**
-- 🤖 **AI in research**: large language models and NLP for text-heavy data, and AI coding agents in my daily workflow
-- ⛹️‍♂️ **Reproducible research**
+* 📊 Data cleaning and analysis of administrative and survey data
+* 🧮 Applied research and econometrics, from descriptive statistics and regression models to causal inference
+* 👓 Literature reviews and evidence synthesis
+* 🤖 AI in research: large language models and NLP for text-heavy data, and AI coding agents in my daily workflow
+* ⛹️‍♂️ Reproducible research
 
-I'm proficient in **Stata, R, Python, and SQL**. I've supported **randomized evaluations** from instrument design to analysis, estimated **cost-effectiveness and cost-benefit** for social programs, and worked with **government counterparts** in Colombia and multi-country teams on health, early childhood and youth, and violence prevention.
-
----
-
-### 💡 Beyond the Code
-
-I've been a **Teaching Assistant** in Economic Analysis of Public Policy (M.A. level) for four semesters, and I've run **technical workshops** with government teams and civil society organizations. I document my pipelines and codebooks so other teams can pick them up and reuse them, because well-documented work is how evidence actually reaches policy decisions.
+I am skilled in using Stata, R, Python, and SQL; I have provided support for randomized evaluations from the stage of designing the instrument through to the analysis phase, carried out impact evaluations, and have worked closely with research teams, government agencies, and civil society partners on projects in the areas of health, early childhood and youth, and violence prevention. In all my analytical work I place a priority on transparency, reproducibility, and clarity.
 
 ---
 
-👉 You can learn more about my work and projects on my [personal website](LINK_WEBSITE).
+💡 Beyond the Code
+
+I have acted as a Teaching Assistant on the course Economic Analysis of Public Policy at the M.A. level for four semesters. 
+
+---
+
+If you want to find out more about my work and the various projects I've undertaken, you can visit my personal website.
+
